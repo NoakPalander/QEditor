@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "string": "cpp"
+    }
+}
